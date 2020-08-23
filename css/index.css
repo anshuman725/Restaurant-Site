@@ -20,3 +20,11 @@
     background-color: aliceblue;
     color: darkslateblue;
 }
+body{
+    padding-top:50px;
+    z-index: 0;
+
+}
+.navbar-dark{
+    background-color: #2B2B52;
+}
