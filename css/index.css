@@ -28,3 +28,12 @@ body{
 .navbar-dark{
     background-color: #2B2B52;
 }
+#dt{
+    margin-left: 15px;
+}
+#btn{
+    margin-left: 30%;
+}
+#inlineRadio1{
+    margin-left: 20px;
+}
