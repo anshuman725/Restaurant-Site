@@ -62,3 +62,22 @@ body{
     min-height: 300px;
 
 }
+#close{
+    margin-left: 30%;
+}
+#btn{
+    margin-left: 3px;
+}
+#option1{
+    margin-left: 10%;
+    
+}
+#btn_1{
+    background-color:#2B2B52;
+    color: azure;
+}
+#btn_1:hover{
+    background-color:orange;
+    color:#2B2B52;
+    
+}
