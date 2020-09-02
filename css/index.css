@@ -81,3 +81,9 @@ body{
     color:#2B2B52;
     
 }
+#carouselbutton{
+    right: 15px;
+    position:absolute;
+    bottom: 0px;
+    z-index: 1;
+}
