@@ -87,3 +87,17 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+#modal_title{
+    background-color:#2B2B52 ;
+}
+#modal_body{
+background-color: azure;
+}
+#modal_header_1{
+    background-color:#2B2B52 ;
+
+}
+#modal_body_1{
+background-color: azure;
+    
+}
