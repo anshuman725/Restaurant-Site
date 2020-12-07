@@ -1,23 +1,24 @@
 {
   "name": "confusion",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
+  "description": "I have started frontend Web Devlopment and here are the files of source code of sample project.",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuman725/Learning-Web-Devlopment.git"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
+  "bugs": {
+    "url": "https://github.com/anshuman725/Learning-Web-Devlopment/issues"
   },
-  "dependencies": {
-    "bootstrap": "^4.5.2",
-    "bootstrap-social": "^5.1.1",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.14.3"
+  "homepage": "https://github.com/anshuman725/Learning-Web-Devlopment#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
